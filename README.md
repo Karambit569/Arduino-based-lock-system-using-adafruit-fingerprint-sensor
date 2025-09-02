@@ -43,7 +43,7 @@ It allows you to **enroll, delete, and authenticate fingerprints** to control a 
 
 The default baud rate for Adafruit Fingerprint Sensor is usually 57600,
 but the code currently uses 192200. If your sensor fails, adjust this line:
-
+```cpp
 finger.begin(57600);
 
 If buffer overrun occurs, change the sendData function:
