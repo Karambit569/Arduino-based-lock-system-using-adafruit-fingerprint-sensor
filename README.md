@@ -3,6 +3,9 @@
 This project is an **Arduino-based  lock system** using the [Adafruit Fingerprint Sensor].  
 It allows you to **enroll, delete, and authenticate fingerprints** to control a relay (e.g., door lock).
 
+Made only to manage codes, not edit/build/upload.
+Only one file(allfunctions.ino) is uploaded.
+
 ### This project is made for only test/education purpose. Not recommended for actual usage. Memory/buffer problem may occur.
 
 ---
