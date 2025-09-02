@@ -6,7 +6,7 @@ It allows you to **enroll, delete, and authenticate fingerprints** to control a 
 Made only to manage codes, not edit/build/upload.
 Only one file(allfunctions.ino) is uploaded.
 
-### This project is made for only test/education purpose. Not recommended for actual usage. Memory/buffer problem may occur.
+### This project is made for only test/education purpose. Not recommended for actual usage. Memory/buffer problem may occur, additional codes for these problems are written below.
 
 ---
 
